@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.nav-item{
+    @apply p-2 my-3 space-x-2 hover:text-orange-600; 
+}
